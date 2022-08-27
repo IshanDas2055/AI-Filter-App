@@ -1,0 +1,18 @@
+.heading
+{
+    font-size:20;
+    top : 0; 
+    width: 100%;
+}
+
+body
+{
+    background-size:cover ;
+} 
+
+canvas
+{
+    box-shadow: 5px 5px 5px red;
+    border : 2px dotted mediumaquamarine;
+    margin-top: 50px;
+}
